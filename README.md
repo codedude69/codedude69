@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I'm Matt! I'm completely new to the coding world and still taking everything in. Looking forward to learning more!
 <!--
 **codedude69/codedude69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
